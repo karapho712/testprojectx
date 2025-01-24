@@ -1,9 +1,9 @@
 main.txt
 
-Fix Fix Fix Fix Fix 
-Integer aliquam lorem sed magna auctor, sit amet vehicula ipsum commodo.
-Praesent pharetra odio interdum maximus placerat.
-Praesent ullamcorper est id lobortis fermentum.
+Fix FeatureA Fix Fix Fix Fix 
+Integer  FeatureA aliquam lorem FeatureA sed magna auctor, sit amet vehicula ipsum commodo.
+Praesent pharetra odio interdum maximusFeatureA placerat.
+Praesent FeatureA ullamcorper est id lobortis fermentum.
 
 featureQ featureQ featureQ featureQ featureQ featureQ featureQ 
 
